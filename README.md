@@ -60,7 +60,7 @@ and may also be used independently outside Rails.
         rails server
 
    Run with `--help` or `-h` for options.
-
+asdfasdf
 4. Using a browser, go to `http://localhost:3000` and you'll see:
 "Welcome aboard: You're riding Ruby on Rails!"
 
