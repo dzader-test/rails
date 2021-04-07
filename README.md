@@ -1,5 +1,5 @@
 ## Welcome to Rails
-
+we
 Rails is a web-application framework that includes everything needed to
 create database-backed web applications according to the
 [Model-View-Controller (MVC)](http://en.wikipedia.org/wiki/Model-view-controller)
@@ -60,13 +60,13 @@ and may also be used independently outside Rails.
         rails server
 
    Run with `--help` or `-h` for options.
-
+asdfasdf
 4. Using a browser, go to `http://localhost:3000` and you'll see:
 "Welcome aboard: You're riding Ruby on Rails!"
 
 5. Follow the guidelines to start developing your application. You may find
    the following resources handy:
-    * [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
+    * [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)asdfasdf
     * [Ruby on Rails Guides](http://guides.rubyonrails.org)
     * [The API Documentation](http://api.rubyonrails.org)
     * [Ruby on Rails Tutorial](http://www.railstutorial.org/book)
@@ -83,3 +83,7 @@ We encourage you to contribute to Ruby on Rails! Please check out the
 ## License
 
 Ruby on Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+
+
+asfasfasf
